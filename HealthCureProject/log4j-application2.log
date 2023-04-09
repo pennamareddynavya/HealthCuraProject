@@ -1,0 +1,160 @@
+2023-04-06 13:37:56,851  INFO [main] HealthCureProject:15 - Land on Home Page
+2023-04-06 13:37:57,066  INFO [main] HealthCureProject:17 - Click On dropDown
+2023-04-06 13:37:57,673  INFO [main] HealthCureProject:19 - Click on Profile
+2023-04-06 13:37:57,747  INFO [main] HealthCureProject:21 - Verify Profile Page Page
+2023-04-06 13:37:57,857  INFO [main] HealthCureProject:24 - Click on DropDown
+2023-04-06 13:37:58,566  INFO [main] HealthCureProject:26 - Click on Logout
+2023-04-06 13:38:42,126  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-06 13:38:42,290  INFO [main] HealthCureProject:53 - Enter the Username as Admin
+2023-04-06 13:38:42,565  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-06 13:38:43,490  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-06 13:38:43,570  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-06 13:38:44,171  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-06 13:38:44,425  INFO [main] HealthCureProject:53 - Enter the Username as kira
+2023-04-06 13:38:44,558  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-06 13:38:45,419  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-06 13:38:45,513  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-06 13:38:46,016  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-06 13:38:46,155  INFO [main] HealthCureProject:53 - Enter the Username as Admin
+2023-04-06 13:38:46,293  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-06 13:38:47,092  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-06 13:38:47,200  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-06 13:38:47,926  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-06 13:38:48,054  INFO [main] HealthCureProject:53 - Enter the Username as Admin
+2023-04-06 13:38:48,187  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-06 13:38:49,767  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-06 13:38:49,869  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-06 13:38:50,415  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-06 13:38:50,577  INFO [main] HealthCureProject:53 - Enter the Username as prjwal@gmail.com
+2023-04-06 13:38:50,691  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-06 13:38:52,098  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-06 13:38:52,185  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-06 13:38:52,640  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-06 13:38:52,796  INFO [main] HealthCureProject:53 - Enter the Username as rama@gmail.com
+2023-04-06 13:38:52,913  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-06 13:38:53,872  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-06 13:38:53,944  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-06 13:38:54,560  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-06 13:38:54,698  INFO [main] HealthCureProject:53 - Enter the Username as Rama@123
+2023-04-06 13:38:54,823  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-06 13:38:55,814  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-06 13:38:55,889  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-06 13:38:56,337  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-06 13:38:56,471  INFO [main] HealthCureProject:53 - Enter the Username as kira@abc
+2023-04-06 13:38:56,591  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-06 13:38:57,491  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-06 13:38:57,577  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-06 13:38:58,131  INFO [main] HealthCureProject:36 - land On Login Page
+2023-04-06 13:38:58,273  INFO [main] HealthCureProject:39 - Enter the Username as John Doe
+2023-04-06 13:38:58,476  INFO [main] HealthCureProject:41 - Enter the Password as ThisIsNotAPassword
+2023-04-06 13:38:59,333  INFO [main] HealthCureProject:43 - Click login btn
+2023-04-06 13:39:02,661 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-06 13:39:02,694 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-04-06 13:39:02,699 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-04-06 13:39:02,700 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/PC/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-04-06 13:39:03,880 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-06 13:39:03,883 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-04-06 13:39:03,884 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-04-06 13:39:03,885 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/PC/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-04-06 13:39:03,893 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-06 13:39:03,895 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-04-06 13:39:03,897 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-04-06 13:39:03,898 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/PC/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-04-06 13:39:03,916 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-06 13:39:03,917 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-04-06 13:39:03,920 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-04-06 13:39:03,926 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/PC/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-04-06 13:39:04,015 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-06 13:39:04,016 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-04-06 13:39:04,017 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-04-06 13:39:04,018 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/PC/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-04-06 13:39:04,039 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-06 13:39:04,040 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-04-06 13:39:04,044 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-04-06 13:39:04,045 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/PC/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-04-06 13:39:04,075 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,079 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,081 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,083 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,085 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,088 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,092 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,096 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,098 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,100 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,104 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,108 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,111 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,112 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,115 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,119 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-06 13:39:04,121 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-06 13:39:04,127 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-04-06 13:39:04,135 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-04-06 13:39:04,136 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/PC/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-04-06 13:39:04,183 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-06 13:39:04,184 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-04-06 13:39:04,185 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-04-06 13:39:04,185 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/PC/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-04-06 13:39:04,193 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-06 13:39:04,195 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-04-06 13:39:04,196 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-04-06 13:39:04,197 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/PC/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-04-06 13:39:04,202 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-06 13:39:04,203 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-04-06 13:39:04,204 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-04-06 13:39:04,205 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/PC/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-04-06 13:39:04,228 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-06 13:39:04,229 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-04-06 13:39:04,231 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-04-06 13:39:04,232 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/PC/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-04-08 19:11:46,385  INFO [main] HealthCureProject:15 - Land on Home Page
+2023-04-08 19:11:46,700  INFO [main] HealthCureProject:17 - Click On dropDown
+2023-04-08 19:11:47,257  INFO [main] HealthCureProject:19 - Click on Profile
+2023-04-08 19:11:47,508  INFO [main] HealthCureProject:21 - Verify Profile Page Page
+2023-04-08 19:11:47,616  INFO [main] HealthCureProject:24 - Click on DropDown
+2023-04-08 19:11:48,342  INFO [main] HealthCureProject:26 - Click on Logout
+2023-04-08 19:12:42,133  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-08 19:12:42,267  INFO [main] HealthCureProject:53 - Enter the Username as Admin
+2023-04-08 19:12:42,403  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-08 19:12:43,251  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-08 19:12:43,325  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-08 19:12:43,687  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-08 19:12:43,835  INFO [main] HealthCureProject:53 - Enter the Username as kira
+2023-04-08 19:12:43,989  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-08 19:12:44,728  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-08 19:12:44,799  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-08 19:12:45,161  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-08 19:12:45,324  INFO [main] HealthCureProject:53 - Enter the Username as Admin
+2023-04-08 19:12:45,487  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-08 19:12:46,274  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-08 19:12:46,354  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-08 19:12:46,713  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-08 19:12:46,903  INFO [main] HealthCureProject:53 - Enter the Username as Admin
+2023-04-08 19:12:47,054  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-08 19:12:47,837  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-08 19:12:47,906  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-08 19:12:48,270  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-08 19:12:48,471  INFO [main] HealthCureProject:53 - Enter the Username as prjwal@gmail.com
+2023-04-08 19:12:48,592  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-08 19:12:50,139  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-08 19:12:50,207  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-08 19:12:50,572  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-08 19:12:50,750  INFO [main] HealthCureProject:53 - Enter the Username as rama@gmail.com
+2023-04-08 19:12:50,872  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-08 19:12:51,574  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-08 19:12:51,638  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-08 19:12:52,000  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-08 19:12:52,136  INFO [main] HealthCureProject:53 - Enter the Username as Rama@123
+2023-04-08 19:12:52,265  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-08 19:12:53,062  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-08 19:12:53,135  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-08 19:12:53,513  INFO [main] HealthCureProject:50 - land On Login Page
+2023-04-08 19:12:53,665  INFO [main] HealthCureProject:53 - Enter the Username as kira@abc
+2023-04-08 19:12:53,864  INFO [main] HealthCureProject:55 - Enter the Password
+2023-04-08 19:12:54,767  INFO [main] HealthCureProject:57 - Click login btn
+2023-04-08 19:12:54,938  INFO [main] HealthCureProject:59 - verifying Invalid Credential
+2023-04-08 19:12:55,511  INFO [main] HealthCureProject:36 - land On Login Page
+2023-04-08 19:12:56,043  INFO [main] HealthCureProject:39 - Enter the Username as John Doe
+2023-04-08 19:12:56,893  INFO [main] HealthCureProject:41 - Enter the Password as ThisIsNotAPassword
+2023-04-08 19:12:58,046  INFO [main] HealthCureProject:43 - Click login btn
